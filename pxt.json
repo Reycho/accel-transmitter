@@ -1,5 +1,5 @@
 {
-    "name": "accel transmitter",
+    "name": "pedo detecter",
     "description": "",
     "dependencies": {
         "core": "*",
